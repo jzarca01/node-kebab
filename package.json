@@ -1,0 +1,16 @@
+{
+	"name": "node-kebab",
+	"version": "1.0.4",
+	"description": "Un wrapper d'API pour kebab-frites.info",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"@sindresorhus/slugify": "^0.6.0",
+		"axios": "^0.18.0",
+		"cheerio": "^1.0.0-rc.2"
+	}
+}
